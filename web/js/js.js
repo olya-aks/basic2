@@ -75,8 +75,6 @@ $(document).ready(function(){
             });
 
 
-
-
             $('#get').scroll(function() {
               $('#add').scrollLeft($(this).scrollLeft());
             });
